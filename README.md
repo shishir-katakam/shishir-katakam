@@ -1,22 +1,22 @@
-## Hi,I'm Shishir Katakam
+## Hi,I'm Shishir Katakam<br/>
 Computer science at Mahatma Gandhi Institute Of Technology<br/>
 Passionate about AI, automation, and software that solves real-world problems<br/>
 
-learning:
+learning:<br/>
 Python, Firebase, Kivy, React, Supabase,<br/>
 Machine Learning, LLMs, Generative AI<br/>
 
-Hackathon & project experience:
+Project experience:<br/>
 🧠 Summer of AI (Viswam AI, IIITH, Swecha)<br/>
 💡 Built “Code-vance” — an AI-powered coding challenge platform<br/>
-[Code-vance](https://code-vance.vercel.app/)
+[Code-vance](https://code-vance.vercel.app/)<br/>
 
-Certified in:
+Certified in:<br/>
 Google Cloud (GCP)<br/>
 Elements of AI (University of Helsinki)<br/>
 IITM + Microsoft Python Course<br/>
 
-Open to:
+Open to:<br/>
 Collaborations on AI/ML, automation tools, or open-source apps<br/>
 Internships or research opportunities in AI, software, or education tech<br/>
 
