@@ -29,8 +29,6 @@ Internships or research opportunities in AI, software, or education tech<br/>
 
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shishir-katakam&theme=tokyonight&layout=compact&hide_border=true)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shishir-katakam&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shishir-katakam&icon=0&color=1)](https://visitcount.itsvg.in)
+
