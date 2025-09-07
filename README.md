@@ -7,9 +7,11 @@ Python, Firebase, Kivy, React, Supabase,<br/>
 Machine Learning, LLMs, Generative AI<br/>
 
 Project experience:<br/>
-🧠 Summer of AI (Viswam AI, IIITH, Swecha)<br/>
-💡 Built “Code-vance” — an AI-powered coding challenge platform<br/>
+Summer of AI (Viswam AI, IIITH, Swecha)<br/>
+Built “Code-vance” — an AI-powered coding challenge platform<br/>
 [Code-vance](https://code-vance.vercel.app/)<br/>
+Built “NIORA” — An Ambient Soundscapes website<br/>
+[NIORA](https://niora-peach.vercel.app/)<br/>
 
 Certified in:<br/>
 Google Cloud (GCP)<br/>
