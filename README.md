@@ -9,9 +9,10 @@ Machine Learning, LLMs, Generative AI<br/>
 Project experience:<br/>
 Summer of AI (Viswam AI, IIITH, Swecha)<br/>
 Built “Code-vance” — an AI-powered coding challenge platform<br/>
-[Code-vance](https://code-vance.vercel.app/)<br/>
+[ALL PROJECTS](https://endiidishishir.qzz.io)<br/>
+[Code-vance](https://code.endiidishishir.qzz.io)<br/>
 Built “NIORA” — An Ambient Soundscapes website<br/>
-[NIORA](https://niora-peach.vercel.app/)<br/>
+[NIORA](https://music.endiidishishir.qzz.io)<br/>
 
 Certified in:<br/>
 Google Cloud (GCP)<br/>
