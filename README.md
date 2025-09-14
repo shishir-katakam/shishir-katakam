@@ -7,9 +7,8 @@ Python, Firebase, Kivy, React, Supabase,<br/>
 Machine Learning, LLMs, Generative AI<br/>
 
 Project experience:<br/>
-Summer of AI (Viswam AI, IIITH, Swecha)<br/>
-Built “Code-vance” — an AI-powered coding challenge platform<br/>
 [ALL PROJECTS](https://endiidishishir.qzz.io)<br/>
+Built “Code-vance” — an AI-powered coding challenge platform<br/>
 [Code-vance](https://code.endiidishishir.qzz.io)<br/>
 Built “NIORA” — An Ambient Soundscapes website<br/>
 [NIORA](https://music.endiidishishir.qzz.io)<br/>
